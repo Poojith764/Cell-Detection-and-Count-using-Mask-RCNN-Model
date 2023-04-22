@@ -4,4 +4,4 @@
 
 2.Coco weights are availiable in the mask rcnn original repository.
 
-Train the model first with Bloode_Cell_Detection.py and do prediction for a image from the dataset using cell_prediction.py
+Train the model first with Blood_Cell_Detection.py and do prediction for a image from the dataset using cell_prediction.py
